@@ -1,0 +1,27 @@
+*[33m-[m[33m.[m   [33m37a33b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32moctopus[m[33m)[m Merge branches 'branch1', 'branch2' and 'branch3' into octopus
+[31m|[m[32m\[m [33m\[m  
+[31m|[m [32m|[m * [33mde78ca1[m[33m ([m[1;31morigin/branch3[m[33m, [m[1;32mbranch3[m[33m)[m Add branch3 changes
+[31m|[m * [33m|[m [33m763beec[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m Add branch2 changes
+[31m|[m [33m|[m[33m/[m  
+* [33m/[m [33m7a8e224[m[33m ([m[1;31morigin/branch1[m[33m, [m[1;32mbranch1[m[33m)[m Add branch1 changes
+[33m|[m[33m/[m  
+*   [33mc9f9917[m[33m ([m[1;31morigin/octopus[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Resolve merge conflict
+[34m|[m[35m\[m  
+[34m|[m * [33m9921092[m[33m ([m[1;31morigin/resolve-merge[m[33m, [m[1;32mresolve-merge[m[33m)[m Change same file from resolve branch
+* [35m|[m [33m68ce6e1[m Change file from main
+* [35m|[m [33m4a4f2e9[m Resolve merge conflict
+[36m|[m[35m\[m[35m|[m 
+[36m|[m * [33m1303f95[m Add resolve merge changes
+* [1;31m|[m [33m2832bcb[m Update file from main
+[1;31m|[m[1;31m/[m  
+* [33m5f20cb2[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m Add feature1
+* [33mdf79b14[m Initial commit
+*[1;34m-[m[1;34m.[m   [33m6c0ee2c[m Merge branches 'octopus-branch-1', 'octopus-branch-2' and 'octopus-branch-3'
+[1;32m|[m[1;33m\[m [1;34m\[m  
+[1;32m|[m [1;33m|[m * [33m8b4abfa[m[33m ([m[1;32moctopus-branch-3[m[33m)[m add branch 3 changes
+[1;32m|[m * [1;34m|[m [33m4102627[m[33m ([m[1;32moctopus-branch-2[m[33m)[m add branch 2 changes
+[1;32m|[m [1;34m|[m[1;34m/[m  
+* [1;34m/[m [33mc8ab2d7[m[33m ([m[1;32moctopus-branch-1[m[33m)[m add branch 1 changes
+[1;34m|[m[1;34m/[m  
+* [33mff50ba4[m Initial commit
+* [33me04e389[m[33m ([m[1;31morigin/master[m[33m)[m first commit
