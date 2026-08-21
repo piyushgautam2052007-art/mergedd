@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-MAIN CHANGE
-=======
-RESOLVE BRANCH CHANGE
->>>>>>> resolve-merge
+Fast Forward Merge
